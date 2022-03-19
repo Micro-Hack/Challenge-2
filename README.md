@@ -3,7 +3,8 @@ the challenge is a bit harder then the first one, but fear not, it is still not 
 
 info : 
 - diagonal connections dont count 
-- 
+- the edge is the far right , top , bottom and left numbers
+
 ## Example 1:
 
 
