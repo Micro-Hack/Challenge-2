@@ -4,14 +4,27 @@ the challenge is a bit harder then the first one, but fear not, it is still not 
 info : 
 - diagonal connections dont count 
 - 
-## Example :
+## Example 1:
 
 
 
-![image](https://user-images.githubusercontent.com/48186577/135146199-e67cfe39-fe89-4606-98b2-0070b52f7d16.png)
+![image](https://github.com/Micro-Hack/Challenge-2/blob/main/input%201%20(example).png?raw=true)
 
 
 ## Solution :
-![image](https://user-images.githubusercontent.com/48186577/135146777-548811e8-aad7-49f5-a0a5-45628c90c07d.png)
+![image](https://github.com/Micro-Hack/Challenge-2/blob/main/output%201%20(example).png?raw=true)
 
-6 , 1 , 7 
+
+
+## Example 2:
+
+
+
+![image](https://github.com/Micro-Hack/Challenge-2/blob/main/input%202(example).png?raw=true)
+
+
+## Solution :
+![image](https://github.com/Micro-Hack/Challenge-2/blob/main/output%202%20(example).png?raw=true)
+
+
+
