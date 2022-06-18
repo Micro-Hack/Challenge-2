@@ -1,4 +1,4 @@
-# Micro-hack challenge 3 : 
+# Micro-hack challenge 2 : 
 the challenge is a bit harder then the first one, but fear not, it is still not that hard, given a squar matrix of N size, find the disconnected islands of ones that are not connected to the edge by any one and replace them with zeroes, then return the new matrix  .
 
 info : 
